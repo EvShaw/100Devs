@@ -101,4 +101,66 @@
 
 // class CharacterInventory {
 //     constructor(gold, keys, potions,)
+// // }
+
+// accountHolders = []
+
+// class bankAccount {
+//     constructor(name, balance = 0) {
+//         this.name = name
+//         this.balance = balance
+//     }
+//     credit(amount) {
+//         this.balance += amount
+//         return `Hi ${this.name}. Your account has been credited: ${this.balance}`
+//     }
+//     describe() {
+//         return `Hi ${this.name}. Your account balance is: ${this.balance}`
+//     }
+
+
 // }
+
+
+// function accountCreator(name) {
+//     accountHolders.push(name = new bankAccount(name))
+//     creditIt()
+// }
+
+// function creditIt() {
+//     accountHolders.forEach((ele, ind) => {
+//         ele[ind].credit()
+//     })
+// }
+
+// accountCreator('Sean')
+// accountCreator('Brad')
+// accountCreator('George')
+
+
+// console.log(accountHolders)
+// console.log()
+
+
+// const account = {
+//     owner: "Alex",
+//     balance: 0,
+  
+//     // Add an amount to the bank balance
+//     credit(amount) {
+//       this.balance += amount;
+//     },
+  
+//     // Return account description
+//     describe() {
+//       return `owner: ${this.owner}, balance: ${this.balance}`;
+//     }
+//   };
+  
+//   console.log(account.describe());
+//   account.credit(250);
+//   account.credit(-80);
+//   console.log(account.describe());
+//   © 2022 GitHub, Inc.
+//   Terms
+//   Privacy
