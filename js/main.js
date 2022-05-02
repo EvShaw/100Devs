@@ -143,7 +143,7 @@
 
 
 // const account = {
-//     owner: "Alex",
+//     owner: "Sean",
 //     balance: 0,
   
 //     // Add an amount to the bank balance
@@ -160,7 +160,19 @@
 //   console.log(account.describe());
 //   account.credit(250);
 //   account.credit(-80);
+
+
 //   console.log(account.describe());
-//   © 2022 GitHub, Inc.
-//   Terms
-//   Privacy
+
+// while having the opportunity to contribute to the growth and success of a company. 
+
+
+// for teaching and mentoring all the while challenging me to learn while having the opportunity to contribute to the growth and success of the team. While I would love to 
+
+
+// I'm looking to join a collaborative and animated engineering team that will continuously provide me with challenge to push and learn. An environment and culture in which I can learn within while contributing to the growth and success of the team.  
+
+// bilities to their max so that my growth benefits 
+
+// I'm looking to join a collaborative and animated engineering team that will continuously provide me with the challenge to push and learn. I'd like to be in the social engagement and entertainment space but a friedly team thats not affraid to use creativity while having a good time is always nice.  
+
