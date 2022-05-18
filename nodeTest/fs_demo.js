@@ -34,8 +34,9 @@ const path = require('path')
 
 //Rename a file: 
 
-fs.readFile(path.join(__dirname, '/test', 'hello.txt'), path.join(__dirname, '/test', 'helloworld.txt'), (err) => {
-    if (err) throw err
-    console.log('file renamed...')
-})
+// fs.readFile(path.join(__dirname, '/test', 'hello.txt'), path.join(__dirname, '/test', 'helloworld.txt'), (err) => {
+//     if (err) throw err
+//     console.log('file renamed...')
+// })
+
 
